@@ -18,3 +18,8 @@ How to use:
 - activate virtual env by: #source venv/bin/activate
 - install all dependencies from requirements by: #pip3 install -r requirements.txt
 - run project by: #python3 start.py
+
+When login use:
+
+- admin@admin.com
+- 111
