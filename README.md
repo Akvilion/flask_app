@@ -5,7 +5,9 @@ Flask app with admin panel. Supporting authentication. Implemented one-to-many r
 Endpoins:
 
 /login -> used for login into admin paned
+
 /admin -> admin paned (protected by /login)
+
 /logout -> will logout user from admin panel
 
 
